@@ -4,7 +4,7 @@ Vanillax is a redux version for vanillajs lovers.
 
 ### Demo
 
-First, clone the repositorie
+First, clone the repository
 
 ```
 git clone https://github.com/MSLacerda/vanillax
