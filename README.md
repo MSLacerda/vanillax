@@ -13,13 +13,13 @@ git clone https://github.com/MSLacerda/vanillax
 you can install a simple http server with npm, or feels free to utilize any webserver you like.
 
 ```
-  npm i http-server -g
+ npm i http-server -g
 ```
 
 Execute http server
 
 ```
-  http-server vanillax/
+ http-server vanillax/
 ```
 
 Open your browser in espcified output address, and check the devtools console.
