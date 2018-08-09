@@ -22,7 +22,7 @@ Execute http server
   http-server vanillax/
 ```
 
-Open your browser in espcified output address, and check the terminal.
+Open your browser in espcified output address, and check the devtools console.
 
 
 
