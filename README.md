@@ -1,6 +1,6 @@
 # Vanillax
 
-Vanillax is a redux version for vanillajs lovers.
+Vanillax js is a result of ReduxJS Study!
 
 ### Demo
 
