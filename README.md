@@ -1,6 +1,6 @@
 # Vanillax
 
-Vanillax js is a result of ReduxJS Study!
+Vanillax js is a result of Redux Study!
 
 ### Demo
 
